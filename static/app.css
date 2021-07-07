@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    background-color: rgba(47, 248, 255, 0.432);
+    border: 2px dashed brown;
+    padding: 20px;
+    margin: 35px;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgba(47, 255, 151, 0.432);
+    border: 2px solid rgb(211, 39, 39);
+    padding: 10px;
+    margin: 50px;
+}
+
+
+body {
+    background-color: rgb(47, 172, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+button {
+    margin: 0 auto;
+    text-align: center;
+    font-size: large;
+}
+
+td {
+    width: 25%;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+}
